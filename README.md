@@ -6,7 +6,7 @@
 
 ![HK560's GitHub stats](https://github-readme-stats.vercel.app/api?username=HK560&count_private=true&theme=algolia)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HK560&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HK560&layout=compact) -->
 
 
 <!-- [![ESP8266DisplayPCHW](https://github-readme-stats.vercel.app/api/pin/?username=HK560&repo=ESP8266DisplayPCHW)](https://github.com/HK560/ESP8266DisplayPCHW) -->
