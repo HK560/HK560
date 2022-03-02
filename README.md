@@ -1,6 +1,6 @@
 ### HI, I am HK560 👋
 
-- Blog: [elbadaernU](https://github.com/HK560/HK560.git)
+- Blog: [elbadaernU](http://blog.hk560.top/)
 - OneDrive Index: [HK560's OneDrive](https://onedrive.hk560.top/)
 - Bilibili: [HK560的个人空间](https://space.bilibili.com/7342356)
 
