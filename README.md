@@ -1,6 +1,7 @@
 ### HI, I am HK560 👋
 
 - Blog: [elbadaernU](http://blog.hk560.top/)
+- Bilibili: [HK560's Profile](https://space.bilibili.com/7342356)
 - OneDriveIndex: [HK560's OneDrive](https://onedrive.hk560.top/)
 - V2EX: [HK560 in V2EX](https://www.v2ex.com/member/HK560)
 - NetEaseCloudMusic: [HK560 in NCM](https://music.163.com/#/user/home?id=41184828)
